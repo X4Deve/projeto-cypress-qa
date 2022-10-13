@@ -1,0 +1,14 @@
+{
+  "name": "teste-marctplace",
+  "version": "1.0.0",
+  "description": "teste para vaga de QA CI&T",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx open"
+  },
+  "author": "Fagner",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
